@@ -1,56 +1,54 @@
-.container{
-    background-color: aquamarine;
-    height: 100vh;
-    width: 100vw;
+.container {
+  background-color: aquamarine;
+  height: 100vh;
+  width: 100vw;
 }
-.mainbox{
-    width: 40vw;
-    height: 50vh;
-    background-color: rgb(32, 207, 32);
-    position: relative;
-    top: 25%;
-    left: 25%;
+.mainbox {
+  width: 40vw;
+  height: 50vh;
+  background-color: rgb(32, 207, 32);
+  position: relative;
+  top: 25%;
+  left: 25%;
 }
-.firstn input{
-    height: 51px;
-    width: 51px;
-    position:fixed;
-    top: 40%;
-    left: 40%;
-    font-size:200%;
-    border-radius: 5px;
-
+.firstn input {
+  height: 52px;
+  width: 51px;
+  position: fixed;
+  top: 40%;
+  left: 40%;
+  font-size: 200%;
+  border-radius: 5px;
 }
-.secondn input{
-    height: 51px;
-    width: 51px;
-    position:fixed ;
-    top: 40%;
-    left: 50%;
-    font-size:200%;
-    border-radius: 5px;
-
+.secondn input {
+  height: 51px;
+  width: 51px;
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  font-size: 200%;
+  border-radius: 5px;
 }
-.answer input{
-    height: 35px;
-    width:250px;
-    position:fixed ;
-    top: 57%;
-    left: 38%;
-    font-size: larger;
-    border-radius: 17px;
+.answer input {
+  height: 35px;
+  width: 250px;
+  position: fixed;
+  top: 57%;
+  left: 38%;
+  font-size: larger;
+  border-radius: 17px;
 }
-#plus{
-    position: absolute;
-    top: 43.5%;
-    left: 46%;
+#plus {
+  position: absolute;
+  top: 43.5%;
+  left: 46%;
 }
-#submit{
-    position: relative;
-    top: 83%;
-    left: 38%;
-    width: 170px;
-    height: 40px;
-    background-color: rgb(241, 10, 157);
-    border-radius: 15px;
+#submit {
+  position: relative;
+  top: 83%;
+  left: 38%;
+  width: 170px;
+  height: 40px;
+  background-color: rgb(241, 10, 157);
+  border-radius: 15px;
 }
